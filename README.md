@@ -1,16 +1,16 @@
-# QRScanner
-本项目使用了开源项目[QRCodeReaderView][3]，具体使用可以参考此项目。
+# QRScanner 
+This project is based on another open source project [QRCodeReaderView][3]，refer for more details。
 
-本项目使用的库
+This project needs following libs
 ------------------------------
 * [zxing] [1]
 * [android-support-v7-appcompat] [2]
 
-编译需求
+Compiler Requirement
 ------------------------------
 * Android 6.0
 
-运行需求
+Running on Android version
 ------------------------------
 * Android 2.3
 
